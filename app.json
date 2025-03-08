@@ -1,1 +1,18 @@
+{
+  "name": "whatsapp-bot",
+  "description": "Kadili WhatsApp Bot",
+  "repository": "https://github.com/termuxboy-255/kadilireply",
+  "keywords": ["whatsapp", "bot"],
+  "env": {
+    "SESSION_ID": {
+      "description": "Paste your session ID here",
+      "value": ""
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs"
+    }
+  ]
+}
 
