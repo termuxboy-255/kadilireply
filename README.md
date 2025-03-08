@@ -9,6 +9,7 @@ Hii ni WhatsApp bot inayoweza ku-deploy kwa Heroku kwa kutumia session ID pekee.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/termuxboy-255/kadilireply)
 
 
+
 ## 📌 Jinsi ya kutumia
 1. **Scan QR Code** kwa kubonyeza button hapo juu.
 2. **Pata Session ID** kutoka scanner.
